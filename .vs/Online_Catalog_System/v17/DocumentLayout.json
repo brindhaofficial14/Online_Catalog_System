@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\CatalogService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\CatalogService\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\CatalogService\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\CatalogService\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\CatalogService\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\CatalogService\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\CatalogService\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\OrderService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\OrderService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\OrderService\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\OrderService\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\OrderService\\OrderService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\OrderService\\OrderService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dotnet-services\\CatalogService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\CatalogService\\Program.cs",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Program.cs",
+              "RelativeToolTip": "backend\\dotnet-services\\CatalogService\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:19:32.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\OrderService\\Program.cs",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\OrderService\\Program.cs",
+              "RelativeToolTip": "backend\\dotnet-services\\OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:15:13.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\CatalogService\\Models\\Product.cs",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Models\\Product.cs",
+              "RelativeToolTip": "backend\\dotnet-services\\CatalogService\\Models\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:49:30.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\CatalogService\\Models\\User.cs",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Models\\User.cs",
+              "RelativeToolTip": "backend\\dotnet-services\\CatalogService\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:49:20.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\CatalogService\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Services\\ProductService.cs",
+              "RelativeToolTip": "backend\\dotnet-services\\CatalogService\\Services\\ProductService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:48:45.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\CatalogService\\Services\\UserService.cs",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Services\\UserService.cs",
+              "RelativeToolTip": "backend\\dotnet-services\\CatalogService\\Services\\UserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:48:34.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\CatalogService\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "backend\\dotnet-services\\CatalogService\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:48:08.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\CatalogService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\dotnet-services\\CatalogService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:47:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "backend\\dotnet-services\\OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:04:17.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\OrderService\\OrderService.csproj",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "backend\\dotnet-services\\OrderService\\OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T06:07:35.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\dotnet-services\\CatalogService\\appsettings.json",
+              "ToolTip": "C:\\Brindha\\Tech\\MyProjects\\WebProjects\\Online_Catalog_System\\backend\\dotnet-services\\CatalogService\\appsettings.json",
+              "RelativeToolTip": "backend\\dotnet-services\\CatalogService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-04T05:46:25.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

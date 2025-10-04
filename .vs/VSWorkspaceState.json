@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\backend",
+    "\\backend\\dotnet-services",
+    "\\backend\\dotnet-services\\CatalogService",
+    "\\backend\\dotnet-services\\CatalogService\\Controllers",
+    "\\backend\\dotnet-services\\CatalogService\\Services",
+    "\\backend\\node-services",
+    "\\frontend",
+    "\\gateway",
+    "\\infrastructure"
   ],
-  "SelectedNode": "\\gateway",
+  "SelectedNode": "\\backend\\dotnet-services\\CatalogService\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

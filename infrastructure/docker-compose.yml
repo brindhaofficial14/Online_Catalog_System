@@ -1,1 +1,69 @@
-{} 
+version: '3.8'
+services:
+  mongo:
+    image: mongo:6.0
+    container_name: online_catalog_mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  auth-service:
+    build: ./services/auth-service
+    container_name: auth-service
+    ports: ["5001:80"]
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Jwt__Key=REPLACE_WITH_LOCAL_SECRET
+      - Jwt__Issuer=OnlineCatalogAuth
+
+  product-service:
+    build: ./services/product-service
+    container_name: product-service
+    ports: ["5002:80"]
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - MongoDb__ConnectionString=mongodb://mongo:27017
+      - MongoDb__DatabaseName=online_catalog
+    depends_on:
+      - mongo
+
+  vendor-service:
+    build: ./services/vendor-service
+    container_name: vendor-service
+    ports: ["5003:80"]
+    environment:
+      - MongoDb__ConnectionString=mongodb://mongo:27017
+      - MongoDb__DatabaseName=online_catalog
+    depends_on:
+      - mongo
+
+  order-service:
+    build: ./services/order-service
+    container_name: order-service
+    ports: ["5004:80"]
+    environment:
+      - MongoDb__ConnectionString=mongodb://mongo:27017
+      - MongoDb__DatabaseName=online_catalog
+      - PayPal__ClientId=REPLACE_PAYPAL_CLIENTID
+      - PayPal__Secret=REPLACE_PAYPAL_SECRET
+      - PayPal__ApiBase=https://api-m.sandbox.paypal.com
+    depends_on:
+      - mongo
+
+  admin-service:
+    build: ./services/admin-service
+    container_name: admin-service
+    ports: ["5005:80"]
+    environment:
+      - MongoDb__ConnectionString=mongodb://mongo:27017
+      - MongoDb__DatabaseName=online_catalog
+      - Brevo__ApiKey=REPLACE_BREVO_API_KEY
+      - Brevo__SenderEmail=no-reply@example.com
+      - Brevo__SenderName=OnlineCatalog
+    depends_on:
+      - mongo
+
+volumes:
+  mongo_data:
